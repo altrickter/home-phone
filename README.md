@@ -1,6 +1,6 @@
 # Home Phone
 
-**A ~$50 DIY landline for the house. No subscription. No screen.**
+**A \~$50 DIY landline for the house. No subscription. No screen.**
 
 ![A powder-blue push-button retro phone](images/phone-closeup.jpg)
 
@@ -16,7 +16,7 @@ There's no code in this repo and there's none you need to worry about. This proj
 
 - **It's good for kids.** They get to receive and make calls to friends and family on their own, learn phone etiquette. Importantly, without a screen distraction, apps, or a data plan. Kids love that it's a phone they get to answer when it rings.
 - **It's good for you.** When there's a house phone, you can turn your own phone off, leave it in a drawer, use Focus mode, or just lose it in the couch, and family can still reach the house. I've used it a few times in a pinch when I needed to get a hold of someone at the house and my wife wasn't picking up her cell.
-- **It's cheap.** Popular "kid phone" or "home phone" products run roughly $100 for the device plus ~$10/month. This setup was about $50 in hardware once with a prepay setup at a penny per minute (I've spent only **~$30 in prepay credit over two years**, covering call time and a $1.10/mo fee for the phone number).
+- **It's cheap.** Popular "kid phone" or "home phone" products run roughly $100 for the device plus \~$10/month. This setup was about $50 in hardware once with a prepay setup at a penny per minute (I've spent only **\~$30 in prepay credit over two years**, covering call time and a $1.10/mo fee for the phone number).
 - **It's fun.** A thrift-store push-button phone is a great object, and there's real satisfaction in hearing a dial tone come out of something you wired up yourself.
 
 Just one man's opinion.
@@ -57,12 +57,12 @@ Approximate US prices as of August 2026. Check current listings; model numbers g
 | Part | What I used | Approx. cost |
 |---|---|---|
 | Analog phone (RJ11 jack) | Thrifted retro phone | $10–30 |
-| Phone line cord (RJ11) | [Generic cord](https://www.amazon.com/dp/B00006HSK6) | ~$5 |
-| ATA | [Grandstream HT801 v2](https://www.amazon.com/dp/B0DPZSNL8K) | ~$35 |
+| Phone line cord (RJ11) | [Generic cord](https://www.amazon.com/dp/B00006HSK6) | \~$5 |
+| ATA | [Grandstream HT801 v2](https://www.amazon.com/dp/B0DPZSNL8K) | \~$35 |
 | Ethernet cable | Whatever you have | $0–5 |
-| **Minimum hardware total** | | **~$50–75** |
-| Travel router (optional) | [GL.iNet Opal GL-SFT1200](https://www.amazon.com/dp/B09N72FMH5) | ~$40 |
-| **With travel router** | | **~$90–115** |
+| **Minimum hardware total** | | **\~$50–75** |
+| Travel router (optional) | [GL.iNet Opal GL-SFT1200](https://www.amazon.com/dp/B09N72FMH5) | \~$40 |
+| **With travel router** | | **\~$90–115** |
 
 Service (voip.ms, pay-as-you-go): a local phone number is about **$1.10/month** and calls are about **$0.01/minute** to the US and Canada. You prepay a small balance and it just drains slowly. For a kid's phone this works out to a few dollars a month, total. There is nothing particularly special about this service other than it was the cheapest I could find and a pretty adaptable to this type of thing.
 
@@ -80,7 +80,7 @@ Once you have the gear, plan on this taking about 1-2 hours the first time, most
 
 ## Please take note
 
-- **911.** Pay-as-you-go VoIP is not a traditional landline with built in 911 service. With voip.ms you can either pay ~$1.50/month for E911 service, or skip it and register your address anyway, in which case a 911 call still connects but costs a one-time $75 fee. Either way, make sure you know what this phone does and doesn't do in an emergency. Read the provider's current policy; it changes.
+- **911.** Pay-as-you-go VoIP is not a traditional landline with built in 911 service. With voip.ms you can either pay \~$1.50/month for E911 service, or skip it and register your address anyway, in which case a 911 call still connects but costs a one-time $75 fee. Either way, make sure you know what this phone does and doesn't do in an emergency. Read the provider's current policy; it changes.
 - **No power, no phone.** Unlike an old copper landline, this needs your internet and power to be working.
 
 ## Repo layout

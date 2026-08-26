@@ -52,7 +52,7 @@ One page, nine tabs. What to set in each for a home phone:
 | Account Restrictions | Allow Calls to Countries | US, Canada, Puerto Rico, Toll Free (default) | |
 | Account Restrictions | Max. Call Time for US48/Canadian Calls | default (3 hours) is fine | |
 | Account Restrictions | Allow 411 dialing | No | 411 costs extra |
-| **Account Routing** | US / Canada / International routing | Value (default) or Premium | Value is cheapest (~half a cent/min for much of Canada); Premium (~1¢/min US) uses tier-1 carriers and is the only tier where caller ID and touch-tones are *guaranteed*. Either is fine for a home phone |
+| **Account Routing** | US / Canada / International routing | Value (default) or Premium | Value is cheapest (\~half a cent/min for much of Canada); Premium (\~1¢/min US) uses tier-1 carriers and is the only tier where caller ID and touch-tones are *guaranteed*. Either is fine for a home phone |
 | **Security** | Main SIP/IAX Password | Set a strong, separate one; this is what the ATA uses (main-account path) | Defaults to your portal login password until you change it |
 | Security | Foreign IP Guard | On (default) | Blocks logins from outside your country |
 | Security | 2FA | Enable if you like | Portal login only, doesn't affect the phone |
@@ -70,8 +70,8 @@ One page, nine tabs. What to set in each for a home phone:
 
 Pick **Local Numbers**, then country → state → area code (or city). The order screen asks:
 
-- **Select Plan**: **Per minute (Inbound)** for a lightly used home phone. Flat rate includes ~3,500 inbound minutes/month and costs more per month.
-- **CallerID Name Lookup**: "No thanks" (a per-query fee, ~$0.008, to look up *incoming* caller names). Unrelated: if you want *your* name to show on other people's phones (outbound CNAM), that's a one-time $10 under Manage DID, US local numbers only.
+- **Select Plan**: **Per minute (Inbound)** for a lightly used home phone. Flat rate includes \~3,500 inbound minutes/month and costs more per month.
+- **CallerID Name Lookup**: "No thanks" (a per-query fee, \~$0.008, to look up *incoming* caller names). Unrelated: if you want *your* name to show on other people's phones (outbound CNAM), that's a one-time $10 under Manage DID, US local numbers only.
 - **DID POP**: radio list of servers; pick the same city your ATA will register to.
 - **Routing Settings → Main**: **SIP/IAX → [main account]** (or your sub-account). The other rows (IVR, Time Conditions, Voicemail, System → Hangup…) are alternatives you can switch to later for whitelisting or bedtime hours.
 
@@ -96,7 +96,7 @@ Sub Accounts → Create Sub Account: username (becomes `<account#>_<name>`), a s
 
 ## Finances
 
-**Add Funds** (the link next to your balance on the home page also goes here). A $15–25 top-up lasts a long time at ~1¢/minute. **Call Detail Records** under Finances shows every call in and out with duration and cost.
+**Add Funds** (the link next to your balance on the home page also goes here). A $15–25 top-up lasts a long time at \~1¢/minute. **Call Detail Records** under Finances shows every call in and out with duration and cost.
 
 ## Quick checklist: minimum viable portal setup
 

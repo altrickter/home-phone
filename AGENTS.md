@@ -73,7 +73,7 @@ What I'd avoid in a first reply: the full parts list, pricing research, wiring i
 
 **Provider.** voip.ms, because it has no monthly subscription: prepay a small balance, about a dollar a month for a local number, about a penny a minute, and the only optional recurring fee is E911. Any SIP provider works with the same hardware and the steps have the same shape, so if they prefer another one, go with it.
 
-**Decisions to surface rather than make.** Voicemail (I skipped it), international calling (off unless needed), the local SIP port (moving it off 5060 cuts scanner "ghost calls"), and above all 911. For 911, lay out both options plainly: E911 at ~$1.50/month with the address sent to dispatch automatically, or no E911 with the address registered anyway and a one-time $75 charge if 911 is ever dialed. I chose the second because our house has cell phones for emergencies; that's a household decision, not a default. Either way, make sure they tell the other adults in the house what the phone does in an emergency.
+**Decisions to surface rather than make.** Voicemail (I skipped it), international calling (off unless needed), the local SIP port (moving it off 5060 cuts scanner "ghost calls"), and above all 911. For 911, lay out both options plainly: E911 at \~$1.50/month with the address sent to dispatch automatically, or no E911 with the address registered anyway and a one-time $75 charge if 911 is ever dialed. I chose the second because our house has cell phones for emergencies; that's a household decision, not a default. Either way, make sure they tell the other adults in the house what the phone does in an emergency.
 
 **Passwords.** You never need them. Say so early.
 

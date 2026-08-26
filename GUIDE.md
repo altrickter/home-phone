@@ -127,7 +127,7 @@ Gotchas:
 
 Read voip.ms's current policy: [Emergency Services](https://wiki.voip.ms/article/Emergency_Services). As of mid-2026:
 
-- **E911 service** is ~$1.50/month plus a $1.50 activation fee. Your registered address is sent to dispatch automatically.
+- **E911 service** is \~$1.50/month plus a $1.50 activation fee. Your registered address is sent to dispatch automatically.
 - **Without E911**, 911 calls still connect, but voip.ms charges a **one-time $75 fee per 911 call**, and your address is not passed automatically.
 
 I chose not to pay monthly (the point of the project is no recurring fees) but **registered the address in the portal anyway**, and made sure the adults in the house know that the cell phones are the 911 phones. That was the right trade-off for a kid's social phone in a house full of cell phones; it may not be for you. Either way, your outbound caller ID must be set to your DID for any address info to reach dispatch.

@@ -7,7 +7,7 @@ Everything here is a **guide, not a strong recommendation**, and I have no affil
 Copy-paste shopping list. Click, add to cart, done. (Plain links, no affiliate codes.)
 
 <!-- SHOPPING-LIST-START -->
-| # | Part | Buy | ~Price |
+| # | Part | Buy | \~Price |
 |---|---|---|---|
 | 1 | **Grandstream HT801 v2** (the adapter; the one part that matters) | [Amazon](https://www.amazon.com/dp/B0DPZSNL8K) | $35 |
 | 2 | **A corded phone** with an RJ11 jack. Thrift store is ideal; any of these work new | [Amazon: corded phones](https://www.amazon.com/s?k=corded+phone+rj11) | $10–30 |
@@ -53,7 +53,7 @@ You only need this if the phone can't physically be near your main router (or an
 
 What matters: **"repeater," "WISP," or "client" mode** (connects to an existing Wi-Fi network as a client) and at least one **LAN ethernet port**. Nearly every travel router and many mesh satellites do this.
 
-- **GL.iNet Opal (GL-SFT1200)**: ~$40, easy web UI, repeater mode is a first-class feature. Plenty of newer GL.iNet models (Beryl, Slate, etc.) do the same thing for more money.
+- **GL.iNet Opal (GL-SFT1200)**: \~$40, easy web UI, repeater mode is a first-class feature. Plenty of newer GL.iNet models (Beryl, Slate, etc.) do the same thing for more money.
 - **Mesh Wi-Fi satellite with an ethernet port** (eero, Google Wifi, Deco): if you already have one in the right room, just use its ethernet port. No extra purchase.
 - **Powerline ethernet adapters**: another option if Wi-Fi in that room is weak.
 
