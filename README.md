@@ -46,7 +46,7 @@ flowchart LR
 
 Both the ATA and the travel router need a wall outlet. I'd recommend getting Setup A working first, then move to B if you want it.
 
-<img src="images/ata-and-router.jpg" alt="Inside a wine box: Grandstream ATA with blue lights, GL.iNet travel router, and a power strip" width="600">
+![Inside a wine box: Grandstream ATA with blue lights, GL.iNet travel router, and a power strip](images/ata-and-router.jpg)
 
 *Everything that isn't the phone lives in a wine box on the shelf below it: the ATA (blue lights), the travel router (white), and a power strip.*
 
