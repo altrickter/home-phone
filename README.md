@@ -57,7 +57,7 @@ Approximate US prices as of August 2026. Check current listings; model numbers g
 | Part | What I used | Approx. cost |
 |---|---|---|
 | Analog phone (RJ11 jack) | Thrifted retro phone | $10–30 |
-| Phone line cord (RJ11) | [Generic cord](https://www.amazon.com/dp/B00006HSK6) | \~$5 |
+| Phone line cord (RJ11) | [Generic cord](https://www.amazon.com/dp/B08YS3KVZ1) | \~$5 |
 | ATA | [Grandstream HT801 v2](https://www.amazon.com/dp/B0DPZSNL8K) | \~$35 |
 | Ethernet cable | Whatever you have | $0–5 |
 | **Minimum hardware total** | | **\~$50–75** |

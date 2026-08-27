@@ -10,9 +10,9 @@ Copy-paste shopping list. Click, add to cart, done. (Plain links, no affiliate c
 | # | Part | Buy | \~Price |
 |---|---|---|---|
 | 1 | **Grandstream HT801 v2** (the adapter; the one part that matters) | [Amazon](https://www.amazon.com/dp/B0DPZSNL8K) | $35 |
-| 2 | **A corded phone** with an RJ11 jack. Thrift store is ideal; any of these work new | [Amazon: corded phones](https://www.amazon.com/s?k=corded+phone+rj11) | $10–30 |
-| 3 | **RJ11 phone cord** (skip if the phone includes one) | [Amazon](https://www.amazon.com/dp/B00006HSK6) | $5 |
-| 4 | **Ethernet cable**, any short one (skip if you have one; the travel router includes one) | [Amazon: ethernet cable](https://www.amazon.com/s?k=ethernet+cable+3ft) | $5 |
+| 2 | **A corded phone** with an RJ11 jack. Thrift store is ideal, or browse online | [Etsy: vintage telephones](https://www.etsy.com/market/vintage_telephones) | $10–30 |
+| 3 | **RJ11 phone cord** (skip if the phone includes one) | [Amazon](https://www.amazon.com/dp/B08YS3KVZ1) | $5 |
+| 4 | **Ethernet cable**, any short one (skip if you have one; the travel router includes one) | [Amazon](https://www.amazon.com/dp/B00N2VILDM) | $5 |
 | 5 | **GL.iNet Opal GL-SFT1200 travel router** — *only if the phone will be in a different room from your router* | [Amazon](https://www.amazon.com/dp/B09N72FMH5) | $40 |
 
 Phone service (no hardware, sign up later during setup): [voip.ms](https://voip.ms), pay-as-you-go.
@@ -64,8 +64,8 @@ Tip: in repeater mode the travel router makes its own small network behind your 
 - **…buy a VoIP desk phone instead of an ATA?** You can. An IP phone (e.g. Grandstream GXP series) plugs into ethernet directly and skips the ATA. But then you don't get the retro phone, which is half the point, and the cheap IP phones look like office equipment.
 - **…use a Wi-Fi ATA?** A few exist (e.g. some Obihai models had Wi-Fi dongles). Usually more expensive than an HT801 plus nothing. The travel router approach is more flexible and more reliable.
 - **…use Google Voice / an app?** Works for adults with smartphones. Doesn't give a kid a phone of her own.
-- **…buy a Ooma / magicJack / kid-phone product?** Totally fine, and easier. They cost more up front and/or monthly, and you don't learn anything.
+- **…buy a Ooma / magicJack / kid-phone product?** Totally fine, and easier. They cost more up front and/or monthly, and this setup isn't all that hard.
 
 ## Link hygiene
 
-All Amazon links in this repo are plain `amazon.com/dp/ASIN` links with no referral or tracking parameters, and none are affiliate links. If a link dies, search the model name; these products get refreshed with "v2"/"v3" suffixes every few years and the setup doesn't change.
+Product links here are plain, untracked links — no referral or affiliate codes (the Etsy link is a general marketplace search, not a shop). If a link dies, search the model name; these products get refreshed with "v2"/"v3" suffixes every few years and the setup doesn't change.
