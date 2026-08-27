@@ -36,11 +36,11 @@ Old phone ──(phone cord)──> ATA ──(ethernet)──> your router ─�
 
 ```mermaid
 flowchart LR
-    subgraph A["Setup A: phone near your router (simplest)"]
-        P1[Phone] -- phone cord (RJ11) --> ATA1[ATA] -- ethernet --> R1[Main router]
-    end
     subgraph B["Setup B: phone in another room"]
         P2[Phone] -- phone cord (RJ11) --> ATA2[ATA] -- ethernet --> T[Travel router] -. Wi-Fi .-> R2[Main router]
+    end
+    subgraph A["Setup A: phone near your router (simplest)"]
+        P1[Phone] -- phone cord (RJ11) --> ATA1[ATA] -- ethernet --> R1[Main router]
     end
 ```
 
