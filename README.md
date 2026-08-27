@@ -59,10 +59,11 @@ Approximate US prices as of August 2026. Check current listings; model numbers g
 | Analog phone (RJ11 jack) | Thrifted retro phone | $10–30 |
 | Phone line cord (RJ11) | [Generic cord](https://www.amazon.com/dp/B08YS3KVZ1) | \~$5 |
 | ATA | [Grandstream HT801 v2](https://www.amazon.com/dp/B0DPZSNL8K) | \~$35 |
-| Ethernet cable | Whatever you have | $0–5 |
-| **Minimum hardware total** | | **\~$50–75** |
-| Travel router (optional) | [GL.iNet Opal GL-SFT1200](https://www.amazon.com/dp/B09N72FMH5) | \~$40 |
-| **With travel router** | | **\~$90–115** |
+| Ethernet cable | Whatever you probably already have, or [a cheap one](https://www.amazon.com/dp/B00N2VILDM) | $0–5 |
+| *Optional:* travel router | [GL.iNet Opal GL-SFT1200](https://www.amazon.com/dp/B09N72FMH5) | \~$40 |
+
+> ### \~$50–75 all in
+> …or \~$90–115 if you add the optional travel router.
 
 Service (voip.ms, pay-as-you-go): a local phone number is about **$1.10/month** and calls are about **$0.01/minute** to the US and Canada. You prepay a small balance and it just drains slowly. For a kid's phone this works out to a few dollars a month, total. There is nothing particularly special about this service other than it was the cheapest I could find and a pretty adaptable to this type of thing.
 
